@@ -16,7 +16,6 @@ class MyApp extends StatelessWidget {
           appBarTheme: AppBarTheme(
               backgroundColor: Colors.red,
               foregroundColor: Colors.white,
-
           )
       ),
     );
